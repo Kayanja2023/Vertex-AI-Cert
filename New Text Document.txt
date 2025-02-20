@@ -1,7 +1,0 @@
-Subject: Certification Completion & Appreciation for Your Guidance
-
-Dear [Manager's Name],
-
-I hope you're doing well.
-
-I wanted to take a moment to express my appreciation for the guidance and insights you've provided during my learning journey through the Beginner: Introduction to Generative AI Learning Path. The course covered foundational concepts such as how generative AI differs from traditional machine learning, the role of Large Language Models (LLMs), prompt engineering techniques, and responsible AI practices.
